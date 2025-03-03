@@ -47,4 +47,4 @@ Model training using Decision Trees, Logistic Regression, Random Forest, and Sta
 
 Author
 
-This notebook was created by [Your Name]. Feel free to contribute or raise issues for improvements.
+This notebook was created by Ranit Pal. Feel free to contribute or raise issues for improvements.
